@@ -1,5 +1,4 @@
 //NDVI retrieval script
-//Written by Keelin Haynes and Jessica McCarty, Dept. of Geography, Miami University, Oxford, Ohio
 //August 6, 2018
 
 
